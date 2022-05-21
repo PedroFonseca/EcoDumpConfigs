@@ -3,6 +3,14 @@
     "name": "EcoWorld",
     "url": "https://getpantry.cloud/apiv1/pantry/318c3c50-7c19-496c-b9e9-1f2c46650451/basket/<filename>"
   },
+  "ecolife": {
+    "name": "Eco Life",
+    "url": "https://getpantry.cloud/apiv1/pantry/ca77ccb6-3737-4da2-a6cf-df0724f510c4/basket/<filename>"
+  },
+  "adventurous": {
+    "name": "Adventurous gaming",
+    "url": "https://getpantry.cloud/apiv1/pantry/71f74f5d-879f-444a-b304-733406d5ec3a/basket/<filename>"
+  },
   "local": {
     "name": "teste local",
     "url": "http://192.168.31.161:3001/data/<filename>.json"
