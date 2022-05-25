@@ -1,7 +1,7 @@
 {
   "ecoworld": {
     "name": "EcoWorld",
-    "url": "https://getpantry.cloud/apiv1/pantry/318c3c50-7c19-496c-b9e9-1f2c46650451/basket/<filename>"
+    "url": "https://web.eco-world.rocks/data/<filename>.json"
   },
   "ecolife": {
     "name": "Eco Life",
