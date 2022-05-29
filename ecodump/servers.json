@@ -7,12 +7,40 @@
     "name": "Eco Life",
     "url": "https://getpantry.cloud/apiv1/pantry/ca77ccb6-3737-4da2-a6cf-df0724f510c4/basket/<filename>"
   },
+  "awlmedcollab": {
+    "name": "AWL gaming medium collaboration",
+    "url": "https://getpantry.cloud/apiv1/pantry/8f122301-ca6e-4519-9060-d595c8b2bf5c/basket/<filename>"
+  },
+  "awlhighcollab": {
+    "name": "AWL gaming high collaboration",
+    "url": "https://getpantry.cloud/apiv1/pantry/b0bf5854-4497-4518-a014-6fc8e1e4890e/basket/<filename>"
+  },
   "adventurous": {
     "name": "Adventurous gaming",
     "url": "https://getpantry.cloud/apiv1/pantry/71f74f5d-879f-444a-b304-733406d5ec3a/basket/<filename>"
   },
-  "local": {
-    "name": "teste local",
-    "url": "http://192.168.31.161:3001/data/<filename>.json"
+  "fatbison": {
+    "name": "Fat Bison",
+    "url": "https://getpantry.cloud/apiv1/pantry/7f91da37-6ea5-4342-be64-fd7e5b35600a/basket/<filename>"
+  },
+  "nebula": {
+    "name": "Nebula",
+    "url": "https://getpantry.cloud/apiv1/pantry/8b97d5c0-7342-45fb-8d2e-fefdb86a3ee5/basket/<filename>"
+  },
+  "skyfall": {
+    "name": "Skyfall",
+    "url": "https://getpantry.cloud/apiv1/pantry/439495f8-b7e3-4bf0-9bc5-6e2fc416c58a/basket/<filename>"
+  },
+  "gaia": {
+    "name": "The Gaia Project",
+    "url": "https://getpantry.cloud/apiv1/pantry/76255837-87ed-4e8e-97a7-4a63c07d2000/basket/<filename>"
+  },
+  "tm2022": {
+    "name": "TM 2022",
+    "url": "https://getpantry.cloud/apiv1/pantry/a6caac5a-7af3-47b7-a79d-bcffd59fdbce/basket/<filename>"
+  },
+  "valhalla": {
+    "name": "Valhalla",
+    "url": "https://getpantry.cloud/apiv1/pantry/cd41b429-6c46-4eaa-a52d-d1bbdf7b2c46/basket/<filename>"
   }
 }
