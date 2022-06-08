@@ -7,18 +7,6 @@
     "name": "Eco Life",
     "url": "https://getpantry.cloud/apiv1/pantry/ca77ccb6-3737-4da2-a6cf-df0724f510c4/basket/<filename>"
   },
-  "awlmedcollab": {
-    "name": "AWL gaming medium collaboration",
-    "url": "https://getpantry.cloud/apiv1/pantry/8f122301-ca6e-4519-9060-d595c8b2bf5c/basket/<filename>"
-  },
-  "awlhighcollab": {
-    "name": "AWL gaming high collaboration",
-    "url": "https://getpantry.cloud/apiv1/pantry/b0bf5854-4497-4518-a014-6fc8e1e4890e/basket/<filename>"
-  },
-  "adventurous": {
-    "name": "Adventurous gaming",
-    "url": "https://getpantry.cloud/apiv1/pantry/71f74f5d-879f-444a-b304-733406d5ec3a/basket/<filename>"
-  },
   "fatbison": {
     "name": "Fat Bison",
     "url": "https://getpantry.cloud/apiv1/pantry/7f91da37-6ea5-4342-be64-fd7e5b35600a/basket/<filename>"
@@ -42,5 +30,9 @@
   "valhalla": {
     "name": "Valhalla",
     "url": "https://getpantry.cloud/apiv1/pantry/cd41b429-6c46-4eaa-a52d-d1bbdf7b2c46/basket/<filename>"
+  },
+  "sbs": {
+    "name": "[SBS] Short Bus Syndicate",
+    "url": "http://173.219.54.20:3001/data/<filename>.json"
   }
 }
