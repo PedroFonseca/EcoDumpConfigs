@@ -34,5 +34,9 @@
   "sbs": {
     "name": "[SBS] Short Bus Syndicate",
     "url": "http://173.219.54.20:3001/data/<filename>.json"
+  },
+  "defuq": {
+    "name": "DEFUQ",
+    "url": "http://103.2.196.9:10042/data/<filename>.json"
   }
 }
