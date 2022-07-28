@@ -42,5 +42,9 @@
   "ecoville": {
     "name": "Eco Ville",
     "url": "http://89.58.31.145:3001/data/<filename>.json"
+  },
+  "ember": {
+    "name": "EMBER Eco",
+    "url": "http://embereco-reloaded.nodecraft.gg:3001/data/<filename>.json"
   }
 }
