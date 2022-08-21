@@ -45,7 +45,7 @@
   },
   "ember": {
     "name": "EMBER Eco",
-    "url": "http://embereco-reloaded.nodecraft.gg:3001/data/<filename>.json"
+    "url": "http://5.161.121.100:3001/data/<filename>.json"
   },
   "rugpieniai": {
     "name": "Rugpieniai !",
