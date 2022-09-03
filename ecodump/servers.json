@@ -33,26 +33,44 @@
   },
   "sbs": {
     "name": "[SBS] Short Bus Syndicate",
-    "url": "http://173.219.54.20:3001/data/<filename>.json"
+    "url": "http://173.219.54.20:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Starsunder"
   },
   "defuq": {
     "name": "DEFUQ",
-    "url": "http://103.2.196.9:10042/data/<filename>.json"
+    "url": "http://103.2.196.9:10042/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Irony"
   },
   "ecoville": {
     "name": "Eco Ville",
-    "url": "http://89.58.31.145:3001/data/<filename>.json"
+    "url": "http://89.58.31.145:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Enel"
   },
   "ember": {
     "name": "EMBER Eco",
-    "url": "http://5.161.121.100:3001/data/<filename>.json"
+    "url": "http://5.161.121.100:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Loco"
   },
   "rugpieniai": {
     "name": "Rugpieniai !",
-    "url": "http://176.57.153.67:29201/data/<filename>.json"
+    "url": "http://176.57.153.67:29201/data/<filename>.json",
+    "channel": "email",
+    "owner": "mindaugasg23"
   },
   "ecobee": {
     "name": "ECO Bee",
-    "url": "http://62.4.14.54:3001/data/<filename>.json"
+    "url": "http://62.4.14.54:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "muzs1"
+  },
+  "revolution": {
+    "name": "Revolution Gaming",
+    "url": "http://95.217.112.147:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "AlexB"
   }
 }
