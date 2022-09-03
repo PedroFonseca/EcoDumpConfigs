@@ -50,5 +50,9 @@
   "rugpieniai": {
     "name": "Rugpieniai !",
     "url": "http://176.57.153.67:29201/data/<filename>.json"
+  },
+  "ecobee": {
+    "name": "ECO Bee",
+    "url": "http://62.4.14.54:3001/data/<filename>.json"
   }
 }
