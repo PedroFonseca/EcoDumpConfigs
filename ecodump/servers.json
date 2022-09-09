@@ -72,5 +72,11 @@
     "url": "http://95.217.112.147:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "AlexB"
+  },
+  "doggerland": {
+    "name": "Doggerland",
+    "url": "http://23.109.4.106:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Seekers"
   }
 }
