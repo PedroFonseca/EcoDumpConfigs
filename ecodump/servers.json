@@ -37,12 +37,6 @@
     "channel": "discord",
     "owner": "Starsunder"
   },
-  "defuq": {
-    "name": "DEFUQ",
-    "url": "http://103.2.196.9:10042/data/<filename>.json",
-    "channel": "discord",
-    "owner": "Irony"
-  },
   "ecoville": {
     "name": "Eco Ville",
     "url": "http://89.58.31.145:3001/data/<filename>.json",
@@ -78,5 +72,24 @@
     "url": "http://23.109.4.106:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Seekers"
+  },
+  "awlGaming": {
+    "name": "AWLGaming",
+    "url": "http://77.68.81.249:3003/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Med.GR"
+  },
+  "experimental": {
+    "name": "experimental",
+    "url": "http://revenant.aushost.gg:10042/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Irony"
+  },
+  "silentvillage": {
+    "name": "[KR]고요한 마을",
+    "enName": "[KR]SilentVillage",
+    "url": "http://125.180.194.139:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "DOBBY"
   }
 }
