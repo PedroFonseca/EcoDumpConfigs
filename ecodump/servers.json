@@ -43,6 +43,12 @@
     "channel": "discord",
     "owner": "Enel"
   },
+  "ecoville2": {
+    "name": "Eco Ville 2",
+    "url": "http://135.148.138.70:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Jacob"
+  },
   "ember": {
     "name": "EMBER Eco",
     "url": "http://5.161.121.100:3001/data/<filename>.json",
@@ -57,7 +63,7 @@
   },
   "ecobee": {
     "name": "ECO Bee",
-    "url": "http://62.4.14.54:3001/data/<filename>.json",
+    "url": "http://195.201.175.111:3006/data/<filename>.json",
     "channel": "discord",
     "owner": "muzs1"
   },
