@@ -29,7 +29,7 @@
   },
   "valhalla": {
     "name": "Valhalla",
-    "url": "https://getpantry.cloud/apiv1/pantry/cd41b429-6c46-4eaa-a52d-d1bbdf7b2c46/basket/<filename>"
+    "url": "http://valhalla.nodecraft.games:3001/data/<filename>.json"
   },
   "sbs": {
     "name": "[SBS] Short Bus Syndicate",
