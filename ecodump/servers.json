@@ -103,5 +103,11 @@
     "url": "http://176.9.122.62:3004/data/<filename>.json",
     "channel": "discord",
     "owner": "Smax"
+  },
+  "uexp": {
+    "name": "Unlimited Experience",
+    "url": "https://eco.uexp.org/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Entiffo"
   }
 }
