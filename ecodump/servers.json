@@ -81,7 +81,7 @@
   },
   "awlGaming": {
     "name": "AWLGaming",
-    "url": "http://77.68.81.249:3003/data/<filename>.json",
+    "url": "https://eco.awlgaming.net/data/<filename>.json",
     "channel": "discord",
     "owner": "Med.GR"
   },
