@@ -63,7 +63,7 @@
   },
   "ecobee": {
     "name": "ECO Bee",
-    "url": "http://195.201.175.111:3006/data/<filename>.json",
+    "url": "http://157.90.169.55:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "muzs1"
   },
