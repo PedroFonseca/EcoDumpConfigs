@@ -109,5 +109,11 @@
     "url": "https://eco.uexp.org/data/<filename>.json",
     "channel": "discord",
     "owner": "Entiffo"
+  },
+  "Brachstadt": {
+    "name": "Brachstadt",
+    "url": "http://142.132.154.69:31111/data/<filename>.json",
+    "channel": "email",
+    "owner": "Andre Krause"
   }
 }
