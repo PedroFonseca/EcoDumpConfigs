@@ -115,5 +115,11 @@
     "url": "http://142.132.154.69:31111/data/<filename>.json",
     "channel": "email",
     "owner": "Andre Krause"
+  },
+  "distopia": {
+    "name": "Distopia",
+    "url": "http://tdo-network.eu:20502/data/<filename>.json",
+    "channel": "discord",
+    "owner": "DT01D"
   }
 }
