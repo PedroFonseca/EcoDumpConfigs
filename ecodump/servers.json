@@ -29,7 +29,9 @@
   },
   "valhalla": {
     "name": "Valhalla",
-    "url": "http://valhalla.nodecraft.games:3001/data/<filename>.json"
+    "url": "http://us-mi4.schost.us:25604/data/<filename>.json",
+    "channel": "discord",
+    "owner": "dlehman83"
   },
   "sbs": {
     "name": "[SBS] Short Bus Syndicate",
