@@ -123,5 +123,11 @@
     "url": "http://tdo-network.eu:20502/data/<filename>.json",
     "channel": "discord",
     "owner": "DT01D"
+  },
+  "nuage": {
+    "name": "NuAge",
+    "url": "http://154.127.54.91:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "blacklight127"
   }
 }
