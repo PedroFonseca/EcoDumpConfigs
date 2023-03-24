@@ -132,7 +132,7 @@
   },
   "planetgaia": {
     "name": "Planet Gaia",
-    "url": "http://176.57.171.8:28100/data/<filename>.json",
+    "url": "http://176.57.171.8:28101/data/<filename>.json",
     "channel": "discord",
     "owner": "Enel"
   }
