@@ -40,8 +40,8 @@
     "owner": "Starsunder"
   },
   "ecoville": {
-    "name": "Eco Ville",
-    "url": "http://89.58.31.145:3001/data/<filename>.json",
+    "name": "EcoVille",
+    "url": "http://176.57.171.8:28101/data/<filename>.json",
     "channel": "discord",
     "owner": "Enel"
   },
@@ -129,11 +129,5 @@
     "url": "http://154.127.54.91:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "blacklight127"
-  },
-  "planetgaia": {
-    "name": "Planet Gaia",
-    "url": "http://176.57.171.8:28101/data/<filename>.json",
-    "channel": "discord",
-    "owner": "Enel"
   }
 }
