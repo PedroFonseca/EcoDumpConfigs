@@ -129,5 +129,17 @@
     "url": "http://154.127.54.91:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "blacklight127"
+  },
+  "shadowedrealms": {
+    "name": "Shadowed Realms",
+    "url": "https://eco.shadowedrealms.com/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Gix65"
+  },
+  "stormveil": {
+    "name": "Storm Veil",
+    "url": "http://154.16.137.134:3001/data/<filename>.json",
+    "channel": "email",
+    "owner": "Scott Primofiore <primo4e@gmail.com>"
   }
 }
