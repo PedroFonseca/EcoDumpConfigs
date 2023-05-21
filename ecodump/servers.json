@@ -141,5 +141,11 @@
     "url": "http://154.16.137.134:3001/data/<filename>.json",
     "channel": "email",
     "owner": "Scott Primofiore <primo4e@gmail.com>"
+  },
+  "bigcity": {
+    "name": "Big City",
+    "url": "http://31.214.130.182:3601/data/<filename>.json",
+    "channel": "discord",
+    "owner": "pasinul"
   }
 }
