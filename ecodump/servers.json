@@ -3,29 +3,11 @@
     "name": "EcoWorld",
     "url": "https://web.eco-world.rocks/data/<filename>.json"
   },
-  "ecolife": {
-    "name": "Eco Life",
-    "url": "https://getpantry.cloud/apiv1/pantry/ca77ccb6-3737-4da2-a6cf-df0724f510c4/basket/<filename>"
-  },
-  "fatbison": {
-    "name": "Fat Bison",
-    "url": "https://getpantry.cloud/apiv1/pantry/7f91da37-6ea5-4342-be64-fd7e5b35600a/basket/<filename>"
-  },
-  "nebula": {
-    "name": "Nebula",
-    "url": "https://getpantry.cloud/apiv1/pantry/8b97d5c0-7342-45fb-8d2e-fefdb86a3ee5/basket/<filename>"
-  },
-  "skyfall": {
-    "name": "Skyfall",
-    "url": "https://getpantry.cloud/apiv1/pantry/439495f8-b7e3-4bf0-9bc5-6e2fc416c58a/basket/<filename>"
-  },
-  "gaia": {
-    "name": "The Gaia Project",
-    "url": "https://getpantry.cloud/apiv1/pantry/76255837-87ed-4e8e-97a7-4a63c07d2000/basket/<filename>"
-  },
-  "tm2022": {
-    "name": "TM 2022",
-    "url": "https://getpantry.cloud/apiv1/pantry/a6caac5a-7af3-47b7-a79d-bcffd59fdbce/basket/<filename>"
+  "fakewizzards": {
+    "name": "FakeWizzards",
+    "url": "https://getpantry.cloud/apiv1/pantry/439495f8-b7e3-4bf0-9bc5-6e2fc416c58a/basket/<filename>",
+    "channel": "discord",
+    "owner": "Ricky5#4864"
   },
   "valhalla": {
     "name": "Valhalla",
@@ -47,7 +29,7 @@
   },
   "ecoville2": {
     "name": "Eco Ville 2",
-    "url": "http://135.148.138.70:3001/data/<filename>.json",
+    "url": "http://15.204.210.121:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Jacob"
   },
