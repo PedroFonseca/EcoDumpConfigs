@@ -3,9 +3,9 @@
     "name": "EcoWorld",
     "url": "https://web.eco-world.rocks/data/<filename>.json"
   },
-  "fakewizzards": {
-    "name": "FakeWizzards",
-    "url": "https://getpantry.cloud/apiv1/pantry/439495f8-b7e3-4bf0-9bc5-6e2fc416c58a/basket/<filename>",
+  "smartserve": {
+    "name": "Smart Serve",
+    "url": "smartserve.cc:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Ricky5#4864"
   },
