@@ -120,7 +120,7 @@
   },
   "stormveil": {
     "name": "Storm Veil",
-    "url": "http://154.16.137.134:3001/data/<filename>.json",
+    "url": "http://storm-veil-gaming.nodecraft.host:3001/data/<filename>.json",
     "channel": "email",
     "owner": "Scott Primofiore <primo4e@gmail.com>"
   },
