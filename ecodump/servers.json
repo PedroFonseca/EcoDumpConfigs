@@ -1,13 +1,13 @@
 {
-  "ecoworld": {
-    "name": "EcoWorld",
-    "url": "https://web.eco-world.rocks/data/<filename>.json"
-  },
   "smartserve": {
     "name": "Smart Serve",
     "url": "smartserve.cc:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Ricky5#4864"
+  },
+  "ecoworld": {
+    "name": "EcoWorld",
+    "url": "https://web.eco-world.rocks/data/<filename>.json"
   },
   "valhalla": {
     "name": "Valhalla",
