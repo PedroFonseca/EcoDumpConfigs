@@ -1,7 +1,7 @@
 {
   "smartserve": {
     "name": "Smart Serve",
-    "url": "smartserve.cc:3001/data/<filename>.json",
+    "url": "http://smartserve.cc:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Ricky5#4864"
   },
