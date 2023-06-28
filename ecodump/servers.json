@@ -29,7 +29,7 @@
   },
   "ecoville2": {
     "name": "Eco Ville 2",
-    "url": "http://15.204.210.121:3001/data/<filename>.json",
+    "url": "http://192.99.1.47:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Jacob"
   },
