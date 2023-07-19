@@ -1,4 +1,10 @@
 {
+  "ecoville2": {
+    "name": "Eco Ville 2",
+    "url": "http://192.99.1.47:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Jacob"
+  },
   "ecoworld": {
     "name": "EcoWorld",
     "url": "https://web.eco-world.rocks/data/<filename>.json"
@@ -26,12 +32,6 @@
     "url": "http://176.57.171.8:28101/data/<filename>.json",
     "channel": "discord",
     "owner": "Enel"
-  },
-  "ecoville2": {
-    "name": "Eco Ville 2",
-    "url": "http://192.99.1.47:3001/data/<filename>.json",
-    "channel": "discord",
-    "owner": "Jacob"
   },
   "ember": {
     "name": "EMBER Eco",
@@ -133,6 +133,12 @@
   "ecolife": {
     "name": "Ecolife",
     "url": "http://51.89.52.233:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Elwood"
+  },
+  "ecophoria": {
+    "name": "Ecophoria",
+    "url": "http://73.57.170.195:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Elwood"
   }
