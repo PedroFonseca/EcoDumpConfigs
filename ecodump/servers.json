@@ -141,5 +141,11 @@
     "url": "http://73.57.170.195:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Elwood"
+  },
+  "baguettown": {
+    "name": "La Baguettown",
+    "url": "http://82.65.98.237:3001/data/<filename>.json",
+    "channel": "email",
+    "owner": "jason.fauchard@gmail.com"
   }
 }
