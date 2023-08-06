@@ -35,7 +35,7 @@
   },
   "ember": {
     "name": "EMBER Eco",
-    "url": "http://5.161.121.100:3001/data/<filename>.json",
+    "url": "http://5.78.70.98:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Loco"
   },
