@@ -134,7 +134,7 @@
     "name": "Ecolife",
     "url": "http://51.89.52.233:3001/data/<filename>.json",
     "channel": "discord",
-    "owner": "Elwood"
+    "owner": "ghosrath"
   },
   "ecophoria": {
     "name": "Ecophoria",
@@ -147,5 +147,11 @@
     "url": "http://82.65.98.237:3001/data/<filename>.json",
     "channel": "email",
     "owner": "jason.fauchard@gmail.com"
+  },
+  "SCG": {
+    "name": "SoftCoreGaming",
+    "url": "http://192.99.247.233:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "SoftCoreGamer"
   }
 }
