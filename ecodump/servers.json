@@ -153,5 +153,11 @@
     "url": "http://192.99.247.233:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "SoftCoreGamer"
+  },
+  "trollcannons": {
+    "name": "trollcannons",
+    "url": "http://64.121.164.112:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "tindolt"
   }
 }
