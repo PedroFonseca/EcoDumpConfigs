@@ -1,13 +1,13 @@
 {
+  "ecoworld": {
+    "name": "EcoWorld",
+    "url": "https://web.eco-world.rocks/data/<filename>.json"
+  },
   "ecoville2": {
     "name": "Eco Ville 2",
     "url": "http://192.99.1.47:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Jacob"
-  },
-  "ecoworld": {
-    "name": "EcoWorld",
-    "url": "https://web.eco-world.rocks/data/<filename>.json"
   },
   "smartserve": {
     "name": "Smart Serve",
@@ -35,7 +35,7 @@
   },
   "ember": {
     "name": "EMBER Eco",
-    "url": "http://5.78.70.98:3001/data/<filename>.json",
+    "url": "http://5.78.80.28:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Loco"
   },
