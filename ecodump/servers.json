@@ -159,5 +159,11 @@
     "url": "http://64.121.164.112:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "tindolt"
+  },
+  "hanse00": {
+    "name": "Hanse00's Eco Server",
+    "url": "http://hanse00.nodecraft.host:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "Hanse00"
   }
 }
