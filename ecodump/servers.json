@@ -165,5 +165,11 @@
     "url": "http://hanse00.nodecraft.host:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "Hanse00"
+  },
+  "gk": {
+    "name": "gk Eco Server",
+    "url": "http://65.185.123.188:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "gk258"
   }
 }
