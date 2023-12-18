@@ -171,5 +171,12 @@
     "url": "http://65.185.123.188:3001/data/<filename>.json",
     "channel": "discord",
     "owner": "gk258"
+  },
+  "boys": {
+    "name": "Da Boiz",
+    "url": "https://boiz.perpetualgamer.com/data/<filename>.json",
+    "channel": "email",
+    "owner": "jamesblack@hey.com"
+    
   }
 }
