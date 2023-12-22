@@ -102,9 +102,11 @@
   },
   "distopia": {
     "name": "Distopia",
-    "url": "http://tdo-network.eu:20502/data/<filename>.json",
-    "channel": "discord",
-    "owner": "DT01D"
+    "url": "https://eco.tdonet.eu/data/<filename>.json",
+    "channel": "email",
+    "owner": "tdonetwork.def1@gmail.com",
+    "channel_old": "discord",
+    "owner_old": "DT01D"
   },
   "nuage": {
     "name": "NuAge",
