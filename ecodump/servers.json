@@ -183,8 +183,13 @@
   "boys": {
     "name": "Da Boiz",
     "url": "https://boiz.perpetualgamer.com/data/<filename>.json",
-    "channel": "email",
+    "channel": "discord",
     "owner": "jamesblack@hey.com"
-    
+  },
+  "lnms": {
+    "name": "LNMS",
+    "url": "http://192.99.160.146:3001/data/<filename>.json",
+    "channel": "email",
+    "owner": "Zernon"
   }
 }
