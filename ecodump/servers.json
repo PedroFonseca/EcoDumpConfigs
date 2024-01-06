@@ -189,7 +189,13 @@
   "lnms": {
     "name": "LNMS",
     "url": "http://192.99.160.146:3001/data/<filename>.json",
-    "channel": "email",
+    "channel": "discord",
     "owner": "Zernon"
+  },
+  "citystates": {
+    "name": "CityStates",
+    "url": "http://208.115.217.163:3001/data/<filename>.json",
+    "channel": "email",
+    "owner": "elizabethbecker75@gmail.com"
   }
 }
