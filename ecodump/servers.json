@@ -108,7 +108,7 @@
   },
   "distopia": {
     "name": "Distopia",
-    "url": "https://eco.tdonet.eu/data/<filename>.json",
+    "url": "https://eco.foreach.games/data/<filename>.json",
     "channel": "email",
     "owner": "tdonetwork.def1@gmail.com",
     "channel_old": "discord",
