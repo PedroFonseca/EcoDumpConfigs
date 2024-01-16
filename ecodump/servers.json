@@ -102,7 +102,7 @@
   },
   "Brachstadt": {
     "name": "Brachstadt",
-    "url": "http://212.227.142.145:31111/data/<filename>.json",
+    "url": "http://178.63.103.115:31111/data/<filename>.json",
     "channel": "email",
     "owner": "Andre Krause"
   },
