@@ -197,5 +197,11 @@
     "url": "http://208.115.217.163:3001/data/<filename>.json",
     "channel": "email",
     "owner": "elizabethbecker75@gmail.com"
+  },
+  "fairhaven": {
+    "name": "Fairhaven",
+    "url": "http://92e.de:3001/data/<filename>.json",
+    "channel": "discord",
+    "owner": "eiMu"
   }
 }
